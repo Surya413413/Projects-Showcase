@@ -1,0 +1,30 @@
+.homeContainer {
+  background-color: white;
+  background-size: cover;
+  height: 90vh;
+}
+.navContainer {
+  background-color: #cbd5e1;
+  height: 70px;
+}
+.nav-logo {
+  height: 60px;
+  width: 70px;
+  margin-left: 50px;
+}
+.listContainer {
+  margin: 15px;
+
+  list-style-type: none;
+}
+.unorderContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.slectContainer {
+  margin: 10px;
+}
+.optionContainer {
+  padding: 10px;
+  margin: 10px;
+}
